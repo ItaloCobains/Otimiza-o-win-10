@@ -1,0 +1,39 @@
+🔴 WINDOWS FPS BOOST 🔴
+
+| RECOMENDO TER UM PENDRIVE BOOTAVEL PRONTO PRA FAZER FORMATAÇÃO OU UM PONTO DE RESTAURAÇÃO, CASO ACONTEÇA ALGO DE ERRADO |
+
+🔴 Otimizaçãos Básicas do Windows 
+ 
+ | Desativar Barra de Jogo
+ | Ativar/Desativar Modo de Jogo (Teste qual o melhor pra você)
+ | Arquivos Temporarios - Temp Files
+ | Arquivos Temporarios - Temp% Files
+ | Aplicativos em Segundo Plano
+ | Elementos Graficos (GpuPrefence)
+ | MsConfig
+ | Remover Animações WIN10
+ | Limpeza de Disco
+ | Desgragmentar Disco
+ | Desativar Programas que Iniciam com o Windows
+ | Otimizar Multitarefas
+ | Otmizar Tela/Vídeo do Windows
+ | Desativar Assistente de Foco
+ | Desativar Efeito de Transparência
+ | Desativar Modo Tablet
+
+🔴 Instale o Open Shell
+
+🔴 Plano de Energia (Desempenho Máximo) 』
+
+ # Para adicioná-lo: Abra o CMD, copie e cole o comando abaixo:
+
+ | powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
+
+ 🔴 Dica Adicional: Sempre deixe os Drivers da Sua Placa de Vídeo/Integrada Atualizados
+
+
+- Se Inscreve no Canal -
+
+zJu4n
+
+
